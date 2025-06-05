@@ -208,7 +208,7 @@ def update_family_decks_and_main_set():
                 "stage": stage_int
             })
 
-        set_priority = {"A1": 1, "A1a": 2, "A2": 3, "A2a": 4, "A2b": 5, "A3": 6}
+        set_priority = {"A1": 1, "A1a": 2, "A2": 3, "A2a": 4, "A2b": 5, "A3": 6, "A3a": 7}
         updates = []
 
         for deck_id in decks_sets.keys():
@@ -262,9 +262,32 @@ def update_family_decks_and_main_set():
         exit(1)
 
 
+def patch_missing_tournaments():
+    log("🛠 Patch des tournois manquants dans wrk_tournaments...")
+    try:
+        with psycopg2.connect(get_connection_string()) as conn:
+            with conn.cursor() as cur:
+                cur.execute("""
+                    INSERT INTO public.wrk_tournaments (tournament_id, tournament_name, tournament_date, tournament_organizer, tournament_format, tournament_nb_players)
+                    SELECT d.tournament_id, 'Unknown', NULL, 'Unknown', -1, -1
+                    FROM public.wrk_decklists d
+                    LEFT JOIN public.wrk_tournaments t ON d.tournament_id = t.tournament_id
+                    WHERE t.tournament_id IS NULL
+                    GROUP BY d.tournament_id;
+                """)
+            conn.commit()
+        log("✅ Patch terminé : tournois manquants ajoutés.")
+    except Exception as e:
+        log(f"❌ Erreur patch tournoi manquant : {e}")
+        exit(1)
+
+
+
 if __name__ == "__main__":
     log("🚀 Script decklists lancé.")
     create_table()
     insert_decklists()
+    patch_missing_tournaments()
     update_family_decks_and_main_set()
     log("✅ Script terminé.")
+

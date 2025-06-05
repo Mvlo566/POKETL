@@ -234,9 +234,14 @@ async def handle_tournament_standings_page(
     print(f"{len(players)} players, {nb_decklists} decklists, {len(matches)} matches")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(asdict(tournament), f, indent=2, ensure_ascii=False)
+        f.flush()
+        os.fsync(f.fileno())
+    print(f"[💾] {output_file} enregistré.")
+
 
 first_tournament_page = "/tournaments/completed?game=POCKET&format=STANDARD&platform=all&type=online&time=all"
 regex_standings_url = re.compile(r'/tournament/[a-zA-Z0-9_\-]*/standings')
+
 async def handle_tournament_list_page(session, sem, url):
     soup = await async_soup_from_url(session, sem, url)
     current_page = int(soup.find("ul", class_="pagination").attrs["data-current"])
@@ -251,18 +256,21 @@ async def handle_tournament_list_page(session, sem, url):
     tournament_nb_players = [tr.attrs['data-players'] for tr in tournament_trs]
     standings_urls = [construct_standings_url(tid) for tid in tournament_ids]
     standings = await asyncio.gather(*[async_soup_from_url(session, sem, url) for url in standings_urls])
-    for i in range(len(tournament_ids)):
-        await handle_tournament_standings_page(
+    await asyncio.gather(*[
+        handle_tournament_standings_page(
             session, sem, standings[i], tournament_ids[i], tournament_names[i],
             tournament_dates[i], tournament_organizers[i], tournament_formats[i], tournament_nb_players[i]
         )
+        for i in range(len(tournament_ids))
+    ])
+
     if current_page < max_page:
         await handle_tournament_list_page(session, sem, f"{first_tournament_page}&page={current_page+1}")
 
 async def main():
     connector = aiohttp.TCPConnector(limit=20)
     sem = asyncio.Semaphore(50)
-    async with aiohttp.ClientSession(base_url=base_url, connector=connector) as session:
+    async with aiohttp.ClientSession(connector=connector) as session:
         await handle_tournament_list_page(session, sem, first_tournament_page)
 
 if __name__ == "__main__":
