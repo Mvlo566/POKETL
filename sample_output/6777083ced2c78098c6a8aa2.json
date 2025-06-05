@@ -1,0 +1,466 @@
+{
+  "id": "6777083ced2c78098c6a8aa2",
+  "name": "Torneo nocturno argentino (hispano) #3",
+  "date": "2025-01-09T01:00:00.000Z",
+  "organizer": "AZ7eam",
+  "format": "1",
+  "nb_players": "5",
+  "players": [
+    {
+      "id": "az7eam",
+      "name": "AZ7eam",
+      "placing": "1",
+      "country": "AR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/105",
+          "name": "Blitzle (A1-105)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/106",
+          "name": "Zebstrika (A1-106)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/104",
+          "name": "Zapdos ex (A1-104)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/96",
+          "name": "Pikachu ex (A1-96)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/30",
+          "name": "Dedenne (A1a-30)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "fullbuzter",
+      "name": "FullBuzter",
+      "placing": "2",
+      "country": "AR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/147",
+          "name": "Geodude (A1-147)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/44",
+          "name": "Graveler (A1a-44)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/45",
+          "name": "Golem (A1a-45)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/56",
+          "name": "Druddigon (A1a-56)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/154",
+          "name": "Hitmonlee (A1-154)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/47",
+          "name": "Marshadow (A1a-47)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/224",
+          "name": "Brock",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "albaristo30",
+      "name": "albaristo30",
+      "placing": "3",
+      "country": "AR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/130",
+          "name": "Ralts (A1-130)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/131",
+          "name": "Kirlia (A1-131)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/132",
+          "name": "Gardevoir (A1-132)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/129",
+          "name": "Mewtwo ex (A1-129)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/33",
+          "name": "Sigilyph (A1a-33)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/32",
+          "name": "Mew ex (A1a-32)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/65",
+          "name": "Mythical Slab",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "joelvg",
+      "name": "Joelvg",
+      "placing": "4",
+      "country": "AR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/105",
+          "name": "Blitzle (A1-105)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/106",
+          "name": "Zebstrika (A1-106)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/96",
+          "name": "Pikachu ex (A1-96)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/104",
+          "name": "Zapdos ex (A1-104)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/30",
+          "name": "Dedenne (A1a-30)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "askyari",
+      "name": "Askyari",
+      "placing": -1,
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/36",
+          "name": "Flab\u00e9b\u00e9 (A1a-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/37",
+          "name": "Floette (A1a-37)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/38",
+          "name": "Florges (A1a-38)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/32",
+          "name": "Mew ex (A1a-32)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/209",
+          "name": "Porygon (A1-209)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/66",
+          "name": "Budding Expeditioner",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/65",
+          "name": "Mythical Slab",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "match_results": [
+        {
+          "player_id": "albaristo30",
+          "score": 1
+        },
+        {
+          "player_id": "fullbuzter",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "askyari",
+          "score": 0
+        },
+        {
+          "player_id": "az7eam",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "az7eam",
+          "score": 2
+        },
+        {
+          "player_id": "joelvg",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "fullbuzter",
+          "score": 2
+        },
+        {
+          "player_id": "askyari",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "az7eam",
+          "score": 2
+        },
+        {
+          "player_id": "albaristo30",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "joelvg",
+          "score": 1
+        },
+        {
+          "player_id": "fullbuzter",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}

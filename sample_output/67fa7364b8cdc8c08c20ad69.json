@@ -1,0 +1,4442 @@
+{
+  "id": "67fa7364b8cdc8c08c20ad69",
+  "name": "TBBL - The Beast Brother League [Week 3]",
+  "date": "2025-04-18T17:00:00.000Z",
+  "organizer": "The Dark League",
+  "format": "1",
+  "nb_players": "40",
+  "players": [
+    {
+      "id": "meatdamon",
+      "name": "meatdamon",
+      "placing": "1",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "nexxzz",
+      "name": "Nexxzz",
+      "placing": "2",
+      "country": "DE",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/17",
+          "name": "Magikarp (A1a-17)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/18",
+          "name": "Gyarados ex (A1a-18)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/50",
+          "name": "Manaphy (A2-50)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/23",
+          "name": "Origin Forme Palkia (A2a-23)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/220",
+          "name": "Misty",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/72",
+          "name": "Irida",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "tela",
+      "name": "TELA",
+      "placing": "3",
+      "country": null,
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/6",
+          "name": "Red Card",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "gogisam",
+      "name": "TBBL GOGI[TDL]",
+      "placing": "4",
+      "country": "DE",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/6",
+          "name": "Red Card",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "victorssito",
+      "name": "??? | \u293fvictorssito\u293e",
+      "placing": "5",
+      "country": "ES",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "justdefault2",
+      "name": "JustDefault2",
+      "placing": "6",
+      "country": null,
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/67",
+          "name": "Blue",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7earless",
+      "name": "7earless",
+      "placing": "7",
+      "country": "CA",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/33",
+          "name": "Charmander (A1-33)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "tyle",
+      "name": "Tyle",
+      "placing": "8",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/17",
+          "name": "Magikarp (A1a-17)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/18",
+          "name": "Gyarados ex (A1a-18)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/50",
+          "name": "Manaphy (A2-50)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/23",
+          "name": "Origin Forme Palkia (A2a-23)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/220",
+          "name": "Misty",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/72",
+          "name": "Irida",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mkun",
+      "name": "Mkun",
+      "placing": "9",
+      "country": "JP",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/71",
+          "name": "Arceus ex (A2a-71)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rockfeller",
+      "name": "Rockfeller",
+      "placing": "10",
+      "country": "BR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/17",
+          "name": "Magikarp (A1a-17)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/18",
+          "name": "Gyarados ex (A1a-18)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/50",
+          "name": "Manaphy (A2-50)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/83",
+          "name": "Articuno (A1-83)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/220",
+          "name": "Misty",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/72",
+          "name": "Irida",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "thanos9_9",
+      "name": "[\ud835\ude4e\ud835\ude6b\ud835\ude46] | Thanos",
+      "placing": "11",
+      "country": "IT",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/5",
+          "name": "Sprigatito (A2b-5)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/6",
+          "name": "Floragato (A2b-6)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/7",
+          "name": "Meowscarada (A2b-7)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/51",
+          "name": "Magnemite (A2-51)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/98",
+          "name": "Magneton (A1-98)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/53",
+          "name": "Magnezone (A2-53)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/219",
+          "name": "Erika",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "jeremleouf",
+      "name": "JeremLeOuf",
+      "placing": "12",
+      "country": "FR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "joek0",
+      "name": "joek0",
+      "placing": "13",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/33",
+          "name": "Charmander (A1-33)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "itslaitpascal",
+      "name": "ItsLaitPascal",
+      "placing": "14",
+      "country": "ES",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/9",
+          "name": "Carnivine (A2a-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/35",
+          "name": "Rotom (A2a-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/71",
+          "name": "Arceus ex (A2a-71)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/198",
+          "name": "Farfetch'd (A1-198)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "nicomaspro",
+      "name": "Nicomaspro",
+      "placing": "15",
+      "country": null,
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/33",
+          "name": "Charmander (A1-33)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "z_arc",
+      "name": "Z_ARC",
+      "placing": "16",
+      "country": "ZA",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "ramicasal",
+      "name": "ramicasal",
+      "placing": "17",
+      "country": "ES",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/33",
+          "name": "Charmander (A1-33)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mels",
+      "name": "Mels",
+      "placing": "18",
+      "country": "KR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/71",
+          "name": "Arceus ex (A2a-71)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/119",
+          "name": "Dialga ex (A2-119)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/32",
+          "name": "Mew ex (A1a-32)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/69",
+          "name": "Shaymin (A2a-69)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "narra",
+      "name": "Narra",
+      "placing": "19",
+      "country": "ID",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/71",
+          "name": "Arceus ex (A2a-71)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/22",
+          "name": "Shaymin (A2-22)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/9",
+          "name": "Carnivine (A2a-9)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "manutan",
+      "name": "[\ud835\ude4e\ud835\ude6b\ud835\ude46] | Manutan",
+      "placing": "20",
+      "country": "IT",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/91",
+          "name": "Riolu (A2-91)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/92",
+          "name": "Lucario (A2-92)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/88",
+          "name": "Cranidos (A2-88)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/89",
+          "name": "Rampardos (A2-89)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/47",
+          "name": "Marshadow (A1a-47)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/36",
+          "name": "Sudowoodo (A2a-36)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/144",
+          "name": "Skull Fossil",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "flipsyde",
+      "name": "Flipsyde",
+      "placing": "21",
+      "country": "MX",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/88",
+          "name": "Cranidos (A2-88)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/89",
+          "name": "Rampardos (A2-89)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/154",
+          "name": "Hitmonlee (A1-154)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/47",
+          "name": "Marshadow (A1a-47)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/198",
+          "name": "Farfetch'd (A1-198)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/144",
+          "name": "Skull Fossil",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "gaizkita",
+      "name": "GLX | Gaizkita",
+      "placing": "22",
+      "country": "ES",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "bigmack",
+      "name": "Zombie Dragon",
+      "placing": "23",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/17",
+          "name": "Magikarp (A1a-17)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/18",
+          "name": "Gyarados ex (A1a-18)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/50",
+          "name": "Manaphy (A2-50)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/23",
+          "name": "Origin Forme Palkia (A2a-23)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/220",
+          "name": "Misty",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/72",
+          "name": "Irida",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "esteban_alpha",
+      "name": "Esteban_Alpha",
+      "placing": "24",
+      "country": "MX",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/126",
+          "name": "Eevee (A2-126)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/61",
+          "name": "Eevee (A1a-61)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/10",
+          "name": "Leafeon ex (A2a-10)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/20",
+          "name": "Leafeon (A2-20)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/1",
+          "name": "Weedle (A2b-1)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/2",
+          "name": "Kakuna (A2b-2)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/3",
+          "name": "Beedrill ex (A2b-3)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/22",
+          "name": "Shaymin (A2-22)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/219",
+          "name": "Erika",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "turbone101",
+      "name": "Turbone101",
+      "placing": "25",
+      "country": "ZA",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "diamondfire",
+      "name": "DiamondFire",
+      "placing": "26",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/129",
+          "name": "Mewtwo ex (A1-129)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rageux",
+      "name": "Rageux",
+      "placing": "27",
+      "country": null,
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "owl",
+      "name": "OWL",
+      "placing": "28",
+      "country": "DE",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "truluckybanz",
+      "name": "truluckybanz",
+      "placing": "29",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/45",
+          "name": "Ekans (A2b-45)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/46",
+          "name": "Arbok (A2b-46)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/50",
+          "name": "Shroodle (A2b-50)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/51",
+          "name": "Grafaiai (A2b-51)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/56",
+          "name": "Druddigon (A1a-56)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/107",
+          "name": "Croagunk (A2-107)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2a/52",
+          "name": "Toxicroak (A2a-52)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/105",
+          "name": "Skorupi (A2-105)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/106",
+          "name": "Drapion (A2-106)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "shedoom",
+      "name": "Shedoom",
+      "placing": "30",
+      "country": "BR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/42",
+          "name": "Riolu (A2b-42)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/92",
+          "name": "Lucario (A2-92)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/88",
+          "name": "Cranidos (A2-88)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/89",
+          "name": "Rampardos (A2-89)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/41",
+          "name": "Hitmonchan (A2b-41)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/47",
+          "name": "Marshadow (A1a-47)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/144",
+          "name": "Skull Fossil",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "xxepic_kid2",
+      "name": "xxepic_kid2",
+      "placing": "31",
+      "country": "US",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/18",
+          "name": "Wiglett (A2b-18)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/19",
+          "name": "Wugtrio ex (A2b-19)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/92",
+          "name": "Snom (A1-92)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/93",
+          "name": "Frosmoth (A1-93)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/50",
+          "name": "Manaphy (A2-50)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/220",
+          "name": "Misty",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "ken458962",
+      "name": "ken458962",
+      "placing": "32",
+      "country": "JP",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "someperson",
+      "name": "Someperson",
+      "placing": "33",
+      "country": "GB",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/63",
+          "name": "Togepi (A2-63)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/64",
+          "name": "Togetic (A2-64)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/65",
+          "name": "Togekiss (A2-65)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/152",
+          "name": "Cynthia",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/154",
+          "name": "Dawn",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "spring_pocket487",
+      "name": "spring_pocket487",
+      "placing": "34",
+      "country": "HK",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/223",
+          "name": "Giovanni",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "lilexe",
+      "name": "lilexe",
+      "placing": "35",
+      "country": "JP",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "waterlemon",
+      "name": "WaterLemon",
+      "placing": "36",
+      "country": "PH",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/8",
+          "name": "Charmander (A2b-8)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/34",
+          "name": "Charmeleon (A1-34)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "tadero",
+      "name": "Tadero",
+      "placing": "37",
+      "country": "DE",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/35",
+          "name": "Giratina ex (A2b-35)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/110",
+          "name": "Darkrai ex (A2-110)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1a/68",
+          "name": "Leaf",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/70",
+          "name": "Pok\u00e9mon Center Lady",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/155",
+          "name": "Mars",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "vcoda",
+      "name": "vCoda",
+      "placing": "38",
+      "country": "PR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/51",
+          "name": "Magnemite (A2-51)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/98",
+          "name": "Magneton (A1-98)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/53",
+          "name": "Magnezone (A2-53)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/5",
+          "name": "Sprigatito (A2b-5)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/6",
+          "name": "Floragato (A2b-6)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/7",
+          "name": "Meowscarada (A2b-7)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/71",
+          "name": "Red",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "wiloxomega",
+      "name": "WiloXOmega",
+      "placing": "39",
+      "country": "PR",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/8",
+          "name": "Charmander (A2b-8)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/9",
+          "name": "Charmeleon (A2b-9)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/36",
+          "name": "Charizard ex (A1-36)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/10",
+          "name": "Charizard ex (A2b-10)",
+          "count": 1
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/47",
+          "name": "Moltres ex (A1-47)",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/7",
+          "name": "Professor's Research",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/225",
+          "name": "Sabrina",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/69",
+          "name": "Iono",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/1",
+          "name": "Potion",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "skylarr99",
+      "name": "skylarr99",
+      "placing": "40",
+      "country": "MY",
+      "decklist": [
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/1",
+          "name": "Weedle (A2b-1)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/2",
+          "name": "Kakuna (A2b-2)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/3",
+          "name": "Beedrill ex (A2b-3)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/21",
+          "name": "Exeggcute (A1-21)",
+          "count": 2
+        },
+        {
+          "type": "Pok\u00e9mon",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/23",
+          "name": "Exeggutor ex (A1-23)",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A1/219",
+          "name": "Erika",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/150",
+          "name": "Cyrus",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2b/72",
+          "name": "Team Rocket Grunt",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/5",
+          "name": "Pok\u00e9 Ball",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/P-A/2",
+          "name": "X Speed",
+          "count": 2
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/146",
+          "name": "Pok\u00e9mon Communication",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/147",
+          "name": "Giant Cape",
+          "count": 1
+        },
+        {
+          "type": "Trainer",
+          "url": "https://pocket.limitlesstcg.com/cards/A2/148",
+          "name": "Rocky Helmet",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "match_results": [
+        {
+          "player_id": "justdefault2",
+          "score": 2
+        },
+        {
+          "player_id": "waterlemon",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rageux",
+          "score": 1
+        },
+        {
+          "player_id": "owl",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "tela",
+          "score": 2
+        },
+        {
+          "player_id": "vcoda",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jeremleouf",
+          "score": 2
+        },
+        {
+          "player_id": "flipsyde",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "z_arc",
+          "score": 1
+        },
+        {
+          "player_id": "nexxzz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "tyle",
+          "score": 2
+        },
+        {
+          "player_id": "ramicasal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "someperson",
+          "score": 0
+        },
+        {
+          "player_id": "ken458962",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "nicomaspro",
+          "score": 2
+        },
+        {
+          "player_id": "xxepic_kid2",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "manutan",
+          "score": 1
+        },
+        {
+          "player_id": "gogisam",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "victorssito",
+          "score": 2
+        },
+        {
+          "player_id": "spring_pocket487",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "meatdamon",
+          "score": 2
+        },
+        {
+          "player_id": "tadero",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "turbone101",
+          "score": 2
+        },
+        {
+          "player_id": "shedoom",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "esteban_alpha",
+          "score": 1
+        },
+        {
+          "player_id": "diamondfire",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "joek0",
+          "score": 2
+        },
+        {
+          "player_id": "skylarr99",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mkun",
+          "score": 2
+        },
+        {
+          "player_id": "itslaitpascal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rockfeller",
+          "score": 0
+        },
+        {
+          "player_id": "7earless",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gaizkita",
+          "score": 2
+        },
+        {
+          "player_id": "wiloxomega",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "bigmack",
+          "score": 2
+        },
+        {
+          "player_id": "mels",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "narra",
+          "score": 2
+        },
+        {
+          "player_id": "truluckybanz",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "lilexe",
+          "score": 1
+        },
+        {
+          "player_id": "thanos9_9",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "thanos9_9",
+          "score": 1
+        },
+        {
+          "player_id": "tyle",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "narra",
+          "score": 0
+        },
+        {
+          "player_id": "tela",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "joek0",
+          "score": 2
+        },
+        {
+          "player_id": "bigmack",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "justdefault2",
+          "score": 0
+        },
+        {
+          "player_id": "nexxzz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gaizkita",
+          "score": 2
+        },
+        {
+          "player_id": "diamondfire",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "meatdamon",
+          "score": 0
+        },
+        {
+          "player_id": "turbone101",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mkun",
+          "score": 2
+        },
+        {
+          "player_id": "owl",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "7earless",
+          "score": 2
+        },
+        {
+          "player_id": "jeremleouf",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "victorssito",
+          "score": 2
+        },
+        {
+          "player_id": "nicomaspro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gogisam",
+          "score": 1
+        },
+        {
+          "player_id": "rockfeller",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "xxepic_kid2",
+          "score": 0
+        },
+        {
+          "player_id": "tadero",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "shedoom",
+          "score": 0
+        },
+        {
+          "player_id": "vcoda",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "truluckybanz",
+          "score": 0
+        },
+        {
+          "player_id": "flipsyde",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "skylarr99",
+          "score": 0
+        },
+        {
+          "player_id": "esteban_alpha",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rageux",
+          "score": 0
+        },
+        {
+          "player_id": "ramicasal",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "waterlemon",
+          "score": 1
+        },
+        {
+          "player_id": "manutan",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "lilexe",
+          "score": 1
+        },
+        {
+          "player_id": "z_arc",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "itslaitpascal",
+          "score": 2
+        },
+        {
+          "player_id": "spring_pocket487",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "7earless",
+          "score": 2
+        },
+        {
+          "player_id": "joek0",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "nexxzz",
+          "score": 2
+        },
+        {
+          "player_id": "tyle",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mkun",
+          "score": 0
+        },
+        {
+          "player_id": "meatdamon",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "tela",
+          "score": 2
+        },
+        {
+          "player_id": "victorssito",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gaizkita",
+          "score": 1
+        },
+        {
+          "player_id": "rockfeller",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "diamondfire",
+          "score": 1
+        },
+        {
+          "player_id": "justdefault2",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "shedoom",
+          "score": 0
+        },
+        {
+          "player_id": "itslaitpascal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "z_arc",
+          "score": 2
+        },
+        {
+          "player_id": "owl",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "nicomaspro",
+          "score": 1
+        },
+        {
+          "player_id": "thanos9_9",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jeremleouf",
+          "score": 1
+        },
+        {
+          "player_id": "gogisam",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "flipsyde",
+          "score": 2
+        },
+        {
+          "player_id": "ramicasal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "bigmack",
+          "score": 0
+        },
+        {
+          "player_id": "turbone101",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "manutan",
+          "score": 2
+        },
+        {
+          "player_id": "esteban_alpha",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "narra",
+          "score": 2
+        },
+        {
+          "player_id": "xxepic_kid2",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mels",
+          "score": 0
+        },
+        {
+          "player_id": "skylarr99",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "tadero",
+          "score": 0
+        },
+        {
+          "player_id": "truluckybanz",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "nexxzz",
+          "score": 1
+        },
+        {
+          "player_id": "meatdamon",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "tela",
+          "score": 2
+        },
+        {
+          "player_id": "7earless",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gaizkita",
+          "score": 0
+        },
+        {
+          "player_id": "tyle",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rockfeller",
+          "score": 1
+        },
+        {
+          "player_id": "itslaitpascal",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "victorssito",
+          "score": 2
+        },
+        {
+          "player_id": "narra",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mkun",
+          "score": 1
+        },
+        {
+          "player_id": "thanos9_9",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "manutan",
+          "score": 0
+        },
+        {
+          "player_id": "z_arc",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mels",
+          "score": 0
+        },
+        {
+          "player_id": "justdefault2",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gogisam",
+          "score": 2
+        },
+        {
+          "player_id": "joek0",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "ramicasal",
+          "score": 0
+        },
+        {
+          "player_id": "shedoom",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jeremleouf",
+          "score": 0
+        },
+        {
+          "player_id": "rageux",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "truluckybanz",
+          "score": 0
+        },
+        {
+          "player_id": "nicomaspro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "meatdamon",
+          "score": 2
+        },
+        {
+          "player_id": "tela",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "victorssito",
+          "score": 2
+        },
+        {
+          "player_id": "itslaitpascal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "nexxzz",
+          "score": 2
+        },
+        {
+          "player_id": "thanos9_9",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "justdefault2",
+          "score": 2
+        },
+        {
+          "player_id": "tyle",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "gogisam",
+          "score": 2
+        },
+        {
+          "player_id": "7earless",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "z_arc",
+          "score": 0
+        },
+        {
+          "player_id": "mkun",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mels",
+          "score": 0
+        },
+        {
+          "player_id": "ramicasal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "esteban_alpha",
+          "score": 1
+        },
+        {
+          "player_id": "joek0",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "narra",
+          "score": 0
+        },
+        {
+          "player_id": "rockfeller",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "manutan",
+          "score": 1
+        },
+        {
+          "player_id": "jeremleouf",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}

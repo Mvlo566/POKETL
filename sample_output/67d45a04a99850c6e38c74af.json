@@ -1,0 +1,632 @@
+{
+  "id": "67d45a04a99850c6e38c74af",
+  "name": "\ud83d\udc51LIGA POK\u00c9MON \ud83c\udfdf | COPICLOL | $250 USD",
+  "date": "2025-03-16T21:00:00.000Z",
+  "organizer": "Copiclol",
+  "format": "1",
+  "nb_players": "32",
+  "players": [
+    {
+      "id": "painpeko",
+      "name": "FrogEX | painpeko",
+      "placing": "1",
+      "country": "FR",
+      "decklist": []
+    },
+    {
+      "id": "arcaninosshiny",
+      "name": "FrogEX | Arca",
+      "placing": "2",
+      "country": "FR",
+      "decklist": []
+    },
+    {
+      "id": "mironauty",
+      "name": "MiroNauty",
+      "placing": "3",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "haryanto",
+      "name": "Haryanto",
+      "placing": "4",
+      "country": "ID",
+      "decklist": []
+    },
+    {
+      "id": "crackportero",
+      "name": "HW | Crackportero",
+      "placing": "5",
+      "country": "ES",
+      "decklist": []
+    },
+    {
+      "id": "jordex03",
+      "name": "Jordex03",
+      "placing": "5",
+      "country": "ES",
+      "decklist": []
+    },
+    {
+      "id": "watashiwakunji",
+      "name": "Watashiwakunji",
+      "placing": "7",
+      "country": "MY",
+      "decklist": []
+    },
+    {
+      "id": "erikitoh",
+      "name": "HD| ERIKITOH",
+      "placing": "7",
+      "country": "ES",
+      "decklist": []
+    },
+    {
+      "id": "esqueletoncio",
+      "name": "Esqueletoncio",
+      "placing": "9",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "mefig",
+      "name": "MefiG",
+      "placing": "9",
+      "country": "VE",
+      "decklist": []
+    },
+    {
+      "id": "babi",
+      "name": "\u1d04\u00f1\u1d1b | \u02da\u0fd4 \ud835\udc83\ud835\udc82\ud835\udc83\ud835\udc8a \ud835\udf17\ud835\udf1a\u02da",
+      "placing": "9",
+      "country": "KR",
+      "decklist": []
+    },
+    {
+      "id": "psychotropik",
+      "name": "HW| Psychotropik",
+      "placing": "9",
+      "country": "CL",
+      "decklist": []
+    },
+    {
+      "id": "hitsusenpai",
+      "name": "HitsuSenpai",
+      "placing": "13",
+      "country": "MX",
+      "decklist": []
+    },
+    {
+      "id": "papicoolbeans",
+      "name": "Papicoolbeans",
+      "placing": "13",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "shadowbr",
+      "name": "ShadowBR",
+      "placing": "13",
+      "country": "BR",
+      "decklist": []
+    },
+    {
+      "id": "xnidhoggx",
+      "name": "xNidhoggx",
+      "placing": "13",
+      "country": "MX",
+      "decklist": []
+    },
+    {
+      "id": "floatingbud",
+      "name": "floatingbud",
+      "placing": "17",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "heavysquish",
+      "name": "HeavySquish",
+      "placing": "17",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "riu999",
+      "name": "riu999",
+      "placing": "17",
+      "country": "JP",
+      "decklist": []
+    },
+    {
+      "id": "ohtsu",
+      "name": "Ohtsu",
+      "placing": "17",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "wolf09",
+      "name": "Wolf09",
+      "placing": "17",
+      "country": "CO",
+      "decklist": []
+    },
+    {
+      "id": "norttwerk",
+      "name": "Norttwerk",
+      "placing": "17",
+      "country": "MX",
+      "decklist": []
+    },
+    {
+      "id": "duo",
+      "name": "Duo",
+      "placing": "17",
+      "country": "JP",
+      "decklist": []
+    },
+    {
+      "id": "natx10",
+      "name": "natx10",
+      "placing": "17",
+      "country": "AR",
+      "decklist": []
+    },
+    {
+      "id": "andres941cs",
+      "name": "andres941cs",
+      "placing": "25",
+      "country": "ES",
+      "decklist": []
+    },
+    {
+      "id": "libecchi",
+      "name": "libecchi",
+      "placing": "25",
+      "country": "JP",
+      "decklist": []
+    },
+    {
+      "id": "lucasgg1",
+      "name": "lucasgg1",
+      "placing": "25",
+      "country": "AR",
+      "decklist": []
+    },
+    {
+      "id": "kingheracross",
+      "name": "KingHeracross",
+      "placing": "25",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "cxndr",
+      "name": "Matt Vandersluys",
+      "placing": "25",
+      "country": "GB",
+      "decklist": []
+    },
+    {
+      "id": "sigphale",
+      "name": "Sigphale",
+      "placing": "25",
+      "country": "ID",
+      "decklist": []
+    },
+    {
+      "id": "katarina",
+      "name": "Katarina",
+      "placing": "25",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "thedoc",
+      "name": "TheDoC",
+      "placing": "25",
+      "country": "ES",
+      "decklist": []
+    }
+  ],
+  "matches": [
+    {
+      "match_results": [
+        {
+          "player_id": "jordex03",
+          "score": 2
+        },
+        {
+          "player_id": "papicoolbeans",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "katarina",
+          "score": 0
+        },
+        {
+          "player_id": "arcaninosshiny",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "riu999",
+          "score": 1
+        },
+        {
+          "player_id": "norttwerk",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "thedoc",
+          "score": 1
+        },
+        {
+          "player_id": "mefig",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "sigphale",
+          "score": 0
+        },
+        {
+          "player_id": "psychotropik",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "xnidhoggx",
+          "score": 1
+        },
+        {
+          "player_id": "crackportero",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "watashiwakunji",
+          "score": 0
+        },
+        {
+          "player_id": "heavysquish",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mironauty",
+          "score": 2
+        },
+        {
+          "player_id": "lucasgg1",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "shadowbr",
+          "score": 1
+        },
+        {
+          "player_id": "floatingbud",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "andres941cs",
+          "score": 1
+        },
+        {
+          "player_id": "haryanto",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "ohtsu",
+          "score": 2
+        },
+        {
+          "player_id": "libecchi",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "duo",
+          "score": 1
+        },
+        {
+          "player_id": "babi",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "hitsusenpai",
+          "score": 1
+        },
+        {
+          "player_id": "esqueletoncio",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "kingheracross",
+          "score": 0
+        },
+        {
+          "player_id": "erikitoh",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "painpeko",
+          "score": 2
+        },
+        {
+          "player_id": "cxndr",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "natx10",
+          "score": 0
+        },
+        {
+          "player_id": "wolf09",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jordex03",
+          "score": 1
+        },
+        {
+          "player_id": "arcaninosshiny",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "norttwerk",
+          "score": 0
+        },
+        {
+          "player_id": "mefig",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "psychotropik",
+          "score": 1
+        },
+        {
+          "player_id": "crackportero",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "heavysquish",
+          "score": 1
+        },
+        {
+          "player_id": "mironauty",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "floatingbud",
+          "score": 1
+        },
+        {
+          "player_id": "haryanto",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "ohtsu",
+          "score": 1
+        },
+        {
+          "player_id": "babi",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "esqueletoncio",
+          "score": 0
+        },
+        {
+          "player_id": "erikitoh",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "painpeko",
+          "score": 2
+        },
+        {
+          "player_id": "wolf09",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "arcaninosshiny",
+          "score": 2
+        },
+        {
+          "player_id": "mefig",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "crackportero",
+          "score": 1
+        },
+        {
+          "player_id": "mironauty",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "haryanto",
+          "score": 2
+        },
+        {
+          "player_id": "babi",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "erikitoh",
+          "score": 0
+        },
+        {
+          "player_id": "painpeko",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "arcaninosshiny",
+          "score": 0
+        },
+        {
+          "player_id": "mironauty",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "haryanto",
+          "score": 1
+        },
+        {
+          "player_id": "painpeko",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mironauty",
+          "score": 1
+        },
+        {
+          "player_id": "painpeko",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "painpeko",
+          "score": 1
+        },
+        {
+          "player_id": "arcaninosshiny",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "arcaninosshiny",
+          "score": 1
+        },
+        {
+          "player_id": "painpeko",
+          "score": 2
+        }
+      ]
+    }
+  ]
+}

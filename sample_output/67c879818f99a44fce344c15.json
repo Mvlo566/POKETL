@@ -1,0 +1,420 @@
+{
+  "id": "67c879818f99a44fce344c15",
+  "name": "ThePokes - PTCGP Tournament #5",
+  "date": "2025-03-16T20:30:00.000Z",
+  "organizer": "ThePokes",
+  "format": "1",
+  "nb_players": "12",
+  "players": [
+    {
+      "id": "rad_thad",
+      "name": "Rad_Thad",
+      "placing": "1",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "agooost_toooop",
+      "name": "Agooost_Toooop",
+      "placing": "2",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "kidshadow",
+      "name": "KidShadow",
+      "placing": "3",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "sunchaser117",
+      "name": "sunchaser117",
+      "placing": "4",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "jayswing",
+      "name": "JaysWing",
+      "placing": "5",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "mr_cookie",
+      "name": "Mr_Cookie",
+      "placing": "6",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "jajukween",
+      "name": "Julz ",
+      "placing": "7",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "rsk",
+      "name": "RsK",
+      "placing": "8",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "arinmax",
+      "name": "ArinMax",
+      "placing": "9",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "john_pork",
+      "name": "John_Pork",
+      "placing": "10",
+      "country": null,
+      "decklist": []
+    },
+    {
+      "id": "mr_nobody",
+      "name": "Mr_Nobody",
+      "placing": "11",
+      "country": "US",
+      "decklist": []
+    },
+    {
+      "id": "greyat",
+      "name": "GreyAT",
+      "placing": "12",
+      "country": null,
+      "decklist": []
+    }
+  ],
+  "matches": [
+    {
+      "match_results": [
+        {
+          "player_id": "arinmax",
+          "score": 0
+        },
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "agooost_toooop",
+          "score": 0
+        },
+        {
+          "player_id": "kidshadow",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rsk",
+          "score": 0
+        },
+        {
+          "player_id": "mr_cookie",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "greyat",
+          "score": 1
+        },
+        {
+          "player_id": "mr_nobody",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jayswing",
+          "score": 2
+        },
+        {
+          "player_id": "sunchaser117",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "john_pork",
+          "score": 1
+        },
+        {
+          "player_id": "jajukween",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jayswing",
+          "score": 2
+        },
+        {
+          "player_id": "jajukween",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "kidshadow",
+          "score": 2
+        },
+        {
+          "player_id": "mr_cookie",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        },
+        {
+          "player_id": "mr_nobody",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "greyat",
+          "score": 0
+        },
+        {
+          "player_id": "sunchaser117",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "agooost_toooop",
+          "score": 2
+        },
+        {
+          "player_id": "arinmax",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "john_pork",
+          "score": 1
+        },
+        {
+          "player_id": "rsk",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        },
+        {
+          "player_id": "jayswing",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "kidshadow",
+          "score": 2
+        },
+        {
+          "player_id": "jajukween",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mr_cookie",
+          "score": 0
+        },
+        {
+          "player_id": "agooost_toooop",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rsk",
+          "score": 1
+        },
+        {
+          "player_id": "sunchaser117",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "mr_nobody",
+          "score": 1
+        },
+        {
+          "player_id": "arinmax",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "greyat",
+          "score": 0
+        },
+        {
+          "player_id": "john_pork",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "kidshadow",
+          "score": 1
+        },
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jayswing",
+          "score": 0
+        },
+        {
+          "player_id": "agooost_toooop",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "sunchaser117",
+          "score": 2
+        },
+        {
+          "player_id": "arinmax",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "john_pork",
+          "score": 1
+        },
+        {
+          "player_id": "mr_cookie",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "jajukween",
+          "score": 2
+        },
+        {
+          "player_id": "mr_nobody",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rsk",
+          "score": 2
+        },
+        {
+          "player_id": "greyat",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        },
+        {
+          "player_id": "sunchaser117",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "kidshadow",
+          "score": 0
+        },
+        {
+          "player_id": "agooost_toooop",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "match_results": [
+        {
+          "player_id": "rad_thad",
+          "score": 2
+        },
+        {
+          "player_id": "agooost_toooop",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
