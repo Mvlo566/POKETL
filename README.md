@@ -1,90 +1,103 @@
-
 # POKETL
 
-POKETL est une suite d’outils Python pour automatiser le scraping, l’analyse et l’injection de données de tournois Pokémon Pocket (LimitlessTCG) dans une base PostgreSQL.
-Le projet propose une interface terminal avec menu animé (ASCII/Pikachu) pour lancer tous les scripts de traitement en 1 clic.
+**POKETL** is a Python toolkit designed to automate the scraping, analysis, and injection of Pokémon tournament data (from LimitlessTCG) into a PostgreSQL database.  
+The project features a terminal interface with an animated (ASCII/Pikachu) menu to run all processing scripts with a single click.
 
-## 🚀 Fonctionnalités principales
+## 🚀 Main Features
 
-- Scraping automatisé des tournois Pokémon sur LimitlessTCG : decklists, joueurs, résultats, etc.
-- Transformation des données brutes en fichiers JSON structurés, exploitables par les scripts d’insertion.
-- Injection PostgreSQL optimisée et séquentielle (cartes, joueurs, tournois, matches, decklists, résultats).
-- Interface terminal animée pour gérer tous les traitements.
-- Logs détaillés et suivi en temps réel pour chaque étape.
-- Organisation modulaire : chaque script est indépendant, relançable séparément ou via le launcher (attention à l'ordre de lancement, certaines tables sont dépendantes d'autres tables). 
+- Automated scraping of Pokémon tournaments on LimitlessTCG: decklists, players, results, etc.
+- Transformation of raw data into structured JSON files, ready for insertion.
+- Optimized and sequential PostgreSQL injection (cards, players, tournaments, matches, decklists, results).
+- Animated terminal interface to manage all processes.
+- Detailed logging and real-time progress tracking for each step.
+- Modular organization: each script is standalone and can be run individually or via the launcher.  
+  ⚠️ **Note**: Some tables depend on others, so the execution order matters.
 
 ---
 
-## 📦 Structure du projet
+## 📦 Project Structure
 
 ```
 .
-├── launcher.py           # Lancement de l’interface terminal animée (menu principal)
-├── scripts/              # Tous les scripts d’insertion et utilitaires
-│   ├── scraping_tournaments.py     # Scraping LimitlessTCG → JSON
-│   ├── insert_wrk_cards.py         # Insertion cartes dans PostgreSQL
-│   ├── insert_wrk_players.py       # Insertion joueurs
-│   ├── insert_wrk_tournaments.py   # Insertion tournois
-│   ├── insert_wrk_matches.py       # Insertion matches
-│   ├── insert_wrk_decklists.py     # Insertion decklists
-│   └── insert_wrk_results.py       # Insertion résultats
-├── GIF/                  
-│   └── pikachu_loading.gif # Animations ASCII/GIF pour l’UI
-├── sample_output/        # Fichiers JSON générés
-├── requirements.txt      # Dépendances Python
-└── .env                  # Variables d’environnement (connexion PostgreSQL)
-```
-
+├── launcher.py           # Launches the animated terminal interface (main menu)
+├── scripts/              # All insertion and utility scripts
+│   ├── scraping\_tournaments.py     # Scraping LimitlessTCG → JSON
+│   ├── insert\_wrk\_cards.py         # Insert cards into PostgreSQL
+│   ├── insert\_wrk\_players.py       # Insert players
+│   ├── insert\_wrk\_tournaments.py   # Insert tournaments
+│   ├── insert\_wrk\_matches.py       # Insert matches
+│   ├── insert\_wrk\_decklists.py     # Insert decklists
+│   └── insert\_wrk\_results.py       # Insert results
+├── GIF/
+│   └── pikachu\_loading.gif # ASCII/GIF animations for the UI
+├── sample\_output/        # Generated JSON files
+├── requirements.txt      # Python dependencies
+└── .env                  # Environment variables (PostgreSQL connection)
+````
 ---
-
-## 🚦 Utilisation rapide
-
-1. **Cloner le repo**
+## 🚦 Quick Start
+1. **Clone the repository**
     ```bash
     git clone https://github.com/Mvlo566/POKETL.git
     cd POKETL
     ```
-
-2. **Installer les dépendances**
+2. **Install dependencies**
     ```bash
     pip install -r requirements.txt
     ```
-
-3. **Configurer la connexion PostgreSQL**  
-    Remplir le fichier `.env` avec tes paramètres (hôte, user, mdp…).
-
-4. **Lancer l’interface terminal**
+3. **Configure PostgreSQL connection**  
+    Fill in the `.env` file with your database settings (host, user, password, etc.).
+4. **Launch the terminal interface**
     ```bash
     python launcher.py
     ```
-
-5. **Ou exécuter un script spécifique**
+5. **Or run a specific script**
     ```bash
     python scripts/insert_wrk_players.py
     ```
-
 ---
-
-## 💾 Dépendances principales
-
-- aiohttp
-- beautifulsoup4
-- blessed
-- lxml
-- pandas
-- pillow
-- psycopg2
-- python-dotenv
-- requests
-
+## 💾 Main Dependencies
+- `aiohttp`
+- `beautifulsoup4`
+- `blessed`
+- `lxml`
+- `pandas`
+- `pillow`
+- `psycopg2`
+- `python-dotenv`
+- `requests`
 ---
-
-## 📝 Notes & recommandations
-
-- **L’ordre des scripts d’insertion** :  
-  `insert_wrk_cards.py` → `insert_wrk_decklists.py` → `insert_wrk_tournaments.py` → `insert_wrk_players.py` → `insert_wrk_matches.py` → `insert_wrk_results.py`
-- **Tout est loggé** : chaque script affiche les erreurs et étapes en temps réel.
-- **Modulaire** : chaque script peut être relancé séparément, relance = maj incrémentale (pas d’écrasement).
-- **Le launcher.py** gère tout avec menu ASCII.
-
+## 📝 Notes & Recommendations
+- **Insertion script order**:  
+  `insert_wrk_cards.py` → `insert_wrk_decklists.py` → `insert_wrk_tournaments.py` →  
+  `insert_wrk_players.py` → `insert_wrk_matches.py` → `insert_wrk_results.py`
+- **Logging**: All scripts output real-time logs and errors.
+- **Modular**: Each script can be rerun individually. Re-running = incremental update (no overwrite).
+- **The `launcher.py`** manages everything through an ASCII menu.
 ---
+# ODBC Driver Setup
+## Step 1
+- Install PostgreSQL ODBC Driver  
+  https://www.postgresql.org/ftp/odbc/releases/  
+- Version used: `REL-17_00_0005`  
+- Install PostgreSQL
+## Step 2
+- Open the ODBC manager  
+- On Windows, search for:  
+  **"ODBC Data Sources"**
+## Step 3
+- Under **"User DSN"**  
+- Click on **"Add..."**  
+- In **"Create a New Data Source"**  
+- Select **"PostgreSQL Unicode"**  
+- Enter the following settings:
+```
+
+```
+## Step 4
+- Register in the **ODBC Driver**
+- Fill in the following credentials:
+
+
+```
+## The connection is successful 🎉
