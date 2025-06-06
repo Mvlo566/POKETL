@@ -118,7 +118,8 @@ def enrich_dwh_cards():
                         evolution_n1 TEXT,
                         stage_evo TEXT,
                         card_url TEXT,
-                        card_img_url TEXT
+                        card_img_url TEXT,
+                        evo_finale INT
                     );
                 """)
                 conn.commit()
@@ -164,11 +165,46 @@ def enrich_dwh_cards():
                     """, (subtype, hp, illustrator, evo_n1, stage_evo, card_id))
                     log(f"✅ {card_id} → subtype: {subtype} | hp: {hp} | illustrator: {illustrator} | evo: {evo_n1} | stage: {stage_evo}")
 
-            conn.commit()
-            log("✅ Commit finalisé")
+                conn.commit()
+                log("✅ Commit scraping terminé")
+
+                # 🏁 Dernière passe : mise à jour de evo_finale
+                log("🏁 Calcul de la colonne evo_finale pour chaque Pokémon")
+                # Récupérer toutes les cartes de type Pokémon (on garde les types qui contiennent 'Pokémon')
+                cur.execute("""
+                    SELECT card_id, LOWER(card_name)
+                    FROM public.dwh_cards
+                    WHERE card_type ILIKE '%pokémon%'
+                """)
+                name_dict = dict(cur.fetchall())
+
+                # Construire le set de toutes les valeurs evolution_n1 (normalisées, lower)
+                cur.execute("""
+                    SELECT DISTINCT LOWER(evolution_n1) FROM public.dwh_cards WHERE evolution_n1 IS NOT NULL
+                """)
+                evo_n1_set = set([r[0] for r in cur.fetchall() if r[0]])
+
+                # Pour chaque Pokémon, on regarde si son nom apparaît dans une evolution_n1
+                nb_0, nb_1 = 0, 0
+                for card_id, card_name in name_dict.items():
+                    if card_name in evo_n1_set:
+                        # Il existe comme sous-évolution d'un autre
+                        evo_finale = 0
+                        nb_0 += 1
+                    else:
+                        # Il n'apparaît jamais en sous-évolution => c'est une évolution finale
+                        evo_finale = 1
+                        nb_1 += 1
+                    cur.execute("""
+                        UPDATE public.dwh_cards SET evo_finale = %s WHERE card_id = %s
+                    """, (evo_finale, card_id))
+
+                conn.commit()
+                log(f"✅ Mise à jour de evo_finale : {nb_0} sous-évolutions (0), {nb_1} évolutions finales (1)")
+            log("🎉 Processus terminé !")
     except Exception as e:
         log(f"❌ Erreur enrichissement : {e}")
 
 if __name__ == "__main__":
-    log("🧠 Démarrage enrichissement dwh_cards (type+name depuis JSON, subtype+hp+illustrator+evo+stage depuis web)")
+    log("🧠 Démarrage enrichissement dwh_cards (type+name depuis JSON, subtype+hp+illustrator+evo+stage depuis web, evo_finale)")
     enrich_dwh_cards()
